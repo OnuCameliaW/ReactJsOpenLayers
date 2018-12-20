@@ -1,0 +1,14 @@
+.contextPanel {
+	position: absolute;
+      width: 300px;
+      height: 300px;
+      top: 20px;
+      left: 20px;
+      z-index: 5000;
+      padding: 5px;
+      border: 1px solid rgb(66, 72, 79);
+      background-color: #F7F7F7;
+}
+#mapContainer{
+	width: 100%;
+}
